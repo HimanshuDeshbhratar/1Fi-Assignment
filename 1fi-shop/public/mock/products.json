@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "p1",
+    "slug": "iphone-17",
+    "name": "iPhone 17",
+    "brand": "Apple",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the iPhone 17 on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 82900,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "iphone-17-256gb-black",
+        "label": "iPhone 17 256GB Black",
+        "price": 82900,
+        "storage": "256GB",
+        "color": "Black"
+      },
+      {
+        "id": "iphone-17-256gb-white",
+        "label": "iPhone 17 256GB White",
+        "price": 82900,
+        "storage": "256GB",
+        "color": "White"
+      },
+      {
+        "id": "iphone-17-256gb-mist-blue",
+        "label": "iPhone 17 256GB Mist Blue",
+        "price": 82900,
+        "storage": "256GB",
+        "color": "Mist Blue"
+      },
+      {
+        "id": "iphone-17-256gb-lavender",
+        "label": "iPhone 17 256GB Lavender",
+        "price": 82900,
+        "storage": "256GB",
+        "color": "Lavender"
+      },
+      {
+        "id": "iphone-17-256gb-sage",
+        "label": "iPhone 17 256GB Sage",
+        "price": 82900,
+        "storage": "256GB",
+        "color": "Sage"
+      },
+      {
+        "id": "iphone-17-512gb-lavender",
+        "label": "iPhone 17 512GB Lavender",
+        "price": 102900,
+        "storage": "512GB",
+        "color": "Lavender"
+      },
+      {
+        "id": "iphone-17-512gb-black",
+        "label": "iPhone 17 512GB Black",
+        "price": 102900,
+        "storage": "512GB",
+        "color": "Black"
+      },
+      {
+        "id": "iphone-17-512gb-sage",
+        "label": "iPhone 17 512GB Sage",
+        "price": 102900,
+        "storage": "512GB",
+        "color": "Sage"
+      },
+      {
+        "id": "iphone-17-512gb-white",
+        "label": "iPhone 17 512GB White",
+        "price": 102900,
+        "storage": "512GB",
+        "color": "White"
+      },
+      {
+        "id": "iphone-17-512gb-mist-blue",
+        "label": "iPhone 17 512GB Mist Blue",
+        "price": 102900,
+        "storage": "512GB",
+        "color": "Mist Blue"
+      }
+    ],
+    "storageOptions": [
+      "256GB",
+      "512GB"
+    ],
+    "colorOptions": [
+      "Black",
+      "White",
+      "Mist Blue",
+      "Lavender",
+      "Sage"
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "iphone-17-air",
+    "name": "iPhone 17 Air",
+    "brand": "Apple",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the iPhone 17 Air on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 119900,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "iphone-17-air-256gb-cloud-white",
+        "label": "iPhone 17 Air 256GB Cloud White",
+        "price": 119900,
+        "storage": "256GB",
+        "color": "Cloud White"
+      },
+      {
+        "id": "iphone-17-air-256gb-space-black",
+        "label": "iPhone 17 Air 256GB Space Black",
+        "price": 119900,
+        "storage": "256GB",
+        "color": "Space Black"
+      },
+      {
+        "id": "iphone-17-air-256gb-light-gold",
+        "label": "iPhone 17 Air 256GB Light Gold",
+        "price": 119900,
+        "storage": "256GB",
+        "color": "Light Gold"
+      },
+      {
+        "id": "iphone-17-air-256gb-sky-blue",
+        "label": "iPhone 17 Air 256GB Sky Blue",
+        "price": 119900,
+        "storage": "256GB",
+        "color": "Sky Blue"
+      },
+      {
+        "id": "iphone-17-air-512gb-sky-blue",
+        "label": "iPhone 17 Air 512GB Sky Blue",
+        "price": 139900,
+        "storage": "512GB",
+        "color": "Sky Blue"
+      },
+      {
+        "id": "iphone-17-air-512gb-space-black",
+        "label": "iPhone 17 Air 512GB Space Black",
+        "price": 139900,
+        "storage": "512GB",
+        "color": "Space Black"
+      },
+      {
+        "id": "iphone-17-air-512gb-cloud-white",
+        "label": "iPhone 17 Air 512GB Cloud White",
+        "price": 139900,
+        "storage": "512GB",
+        "color": "Cloud White"
+      },
+      {
+        "id": "iphone-17-air-512gb-light-gold",
+        "label": "iPhone 17 Air 512GB Light Gold",
+        "price": 139900,
+        "storage": "512GB",
+        "color": "Light Gold"
+      },
+      {
+        "id": "iphone-17-air-1tb-cloud-white",
+        "label": "iPhone 17 Air 1TB Cloud White",
+        "price": 159900,
+        "storage": "1TB",
+        "color": "Cloud White"
+      },
+      {
+        "id": "iphone-17-air-1tb-space-black",
+        "label": "iPhone 17 Air 1TB Space Black",
+        "price": 159900,
+        "storage": "1TB",
+        "color": "Space Black"
+      },
+      {
+        "id": "iphone-17-air-1tb-light-gold",
+        "label": "iPhone 17 Air 1TB Light Gold",
+        "price": 159900,
+        "storage": "1TB",
+        "color": "Light Gold"
+      },
+      {
+        "id": "iphone-17-air-1tb-sky-blue",
+        "label": "iPhone 17 Air 1TB Sky Blue",
+        "price": 159900,
+        "storage": "1TB",
+        "color": "Sky Blue"
+      }
+    ],
+    "storageOptions": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "colorOptions": [
+      "Cloud White",
+      "Space Black",
+      "Light Gold",
+      "Sky Blue"
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the iPhone 17 Pro on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 134900,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "iphone-17-pro-256gb-silver",
+        "label": "iPhone 17 Pro 256GB Silver",
+        "price": 134900,
+        "storage": "256GB",
+        "color": "Silver"
+      },
+      {
+        "id": "iphone-17-pro-256gb-deep-blue",
+        "label": "iPhone 17 Pro 256GB Deep Blue",
+        "price": 134900,
+        "storage": "256GB",
+        "color": "Deep Blue"
+      },
+      {
+        "id": "iphone-17-pro-256gb-cosmic-orange",
+        "label": "iPhone 17 Pro 256GB Cosmic Orange",
+        "price": 134900,
+        "storage": "256GB",
+        "color": "Cosmic Orange"
+      },
+      {
+        "id": "iphone-17-pro-512gb-cosmic-orange",
+        "label": "iPhone 17 Pro 512GB Cosmic Orange",
+        "price": 154900,
+        "storage": "512GB",
+        "color": "Cosmic Orange"
+      },
+      {
+        "id": "iphone-17-pro-512gb-silver",
+        "label": "iPhone 17 Pro 512GB Silver",
+        "price": 154900,
+        "storage": "512GB",
+        "color": "Silver"
+      },
+      {
+        "id": "iphone-17-pro-512gb-deep-blue",
+        "label": "iPhone 17 Pro 512GB Deep Blue",
+        "price": 154900,
+        "storage": "512GB",
+        "color": "Deep Blue"
+      },
+      {
+        "id": "iphone-17-pro-1tb-deep-blue",
+        "label": "iPhone 17 Pro 1TB Deep Blue",
+        "price": 174900,
+        "storage": "1TB",
+        "color": "Deep Blue"
+      },
+      {
+        "id": "iphone-17-pro-1tb-cosmic-orange",
+        "label": "iPhone 17 Pro 1TB Cosmic Orange",
+        "price": 174900,
+        "storage": "1TB",
+        "color": "Cosmic Orange"
+      },
+      {
+        "id": "iphone-17-pro-1tb-silver",
+        "label": "iPhone 17 Pro 1TB Silver",
+        "price": 174900,
+        "storage": "1TB",
+        "color": "Silver"
+      }
+    ],
+    "storageOptions": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "colorOptions": [
+      "Silver",
+      "Deep Blue",
+      "Cosmic Orange"
+    ]
+  },
+  {
+    "id": "p4",
+    "slug": "iphone-17-pro-max",
+    "name": "iPhone 17 Pro Max",
+    "brand": "Apple",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the iPhone 17 Pro Max on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 149900,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "iphone-17-pro-max-256gb-cosmic-orange",
+        "label": "iPhone 17 Pro Max 256GB Cosmic Orange",
+        "price": 149900,
+        "storage": "256GB",
+        "color": "Cosmic Orange"
+      },
+      {
+        "id": "iphone-17-pro-max-256gb-silver",
+        "label": "iPhone 17 Pro Max 256GB Silver",
+        "price": 149900,
+        "storage": "256GB",
+        "color": "Silver"
+      },
+      {
+        "id": "iphone-17-pro-max-256gb-deep-blue",
+        "label": "iPhone 17 Pro Max 256GB Deep Blue",
+        "price": 149900,
+        "storage": "256GB",
+        "color": "Deep Blue"
+      },
+      {
+        "id": "iphone-17-pro-max-512gb-deep-blue",
+        "label": "iPhone 17 Pro Max 512GB Deep Blue",
+        "price": 169900,
+        "storage": "512GB",
+        "color": "Deep Blue"
+      },
+      {
+        "id": "iphone-17-pro-max-512gb-cosmic-orange",
+        "label": "iPhone 17 Pro Max 512GB Cosmic Orange",
+        "price": 169900,
+        "storage": "512GB",
+        "color": "Cosmic Orange"
+      },
+      {
+        "id": "iphone-17-pro-max-512gb-silver",
+        "label": "iPhone 17 Pro Max 512GB Silver",
+        "price": 169900,
+        "storage": "512GB",
+        "color": "Silver"
+      },
+      {
+        "id": "iphone-17-pro-max-1tb-deep-blue",
+        "label": "iPhone 17 Pro Max 1TB Deep Blue",
+        "price": 189900,
+        "storage": "1TB",
+        "color": "Deep Blue"
+      },
+      {
+        "id": "iphone-17-pro-max-1tb-silver",
+        "label": "iPhone 17 Pro Max 1TB Silver",
+        "price": 189900,
+        "storage": "1TB",
+        "color": "Silver"
+      },
+      {
+        "id": "iphone-17-pro-max-1tb-cosmic-orange",
+        "label": "iPhone 17 Pro Max 1TB Cosmic Orange",
+        "price": 189900,
+        "storage": "1TB",
+        "color": "Cosmic Orange"
+      },
+      {
+        "id": "iphone-17-pro-max-2tb-cosmic-orange",
+        "label": "iPhone 17 Pro Max 2TB Cosmic Orange",
+        "price": 229900,
+        "storage": "2TB",
+        "color": "Cosmic Orange"
+      },
+      {
+        "id": "iphone-17-pro-max-2tb-silver",
+        "label": "iPhone 17 Pro Max 2TB Silver",
+        "price": 229900,
+        "storage": "2TB",
+        "color": "Silver"
+      },
+      {
+        "id": "iphone-17-pro-max2tb-deep-blue",
+        "label": "iPhone 17 Pro Max2TB Deep Blue",
+        "price": 229900,
+        "storage": "2TB",
+        "color": "Deep Blue"
+      }
+    ],
+    "storageOptions": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "colorOptions": [
+      "Cosmic Orange",
+      "Silver",
+      "Deep Blue"
+    ]
+  },
+  {
+    "id": "p5",
+    "slug": "pixel-10",
+    "name": "Pixel 10",
+    "brand": "Google",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the Pixel 10 on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 68600,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "pixel-10-256gb-lemongrass",
+        "label": "Pixel 10 256GB Lemongrass",
+        "price": 68600,
+        "storage": "256GB",
+        "color": "Lemongrass"
+      },
+      {
+        "id": "pixel-10-256gb-obsidian",
+        "label": "Pixel 10 256GB Obsidian",
+        "price": 69845,
+        "storage": "256GB",
+        "color": "Obsidian"
+      },
+      {
+        "id": "pixel-10-256gb-indigo",
+        "label": "Pixel 10 256GB Indigo",
+        "price": 70990,
+        "storage": "256GB",
+        "color": "Indigo"
+      },
+      {
+        "id": "pixel-10-256gb-frost",
+        "label": "Pixel 10 256GB Frost",
+        "price": 72990,
+        "storage": "256GB",
+        "color": "Frost"
+      }
+    ],
+    "storageOptions": [
+      "256GB"
+    ],
+    "colorOptions": [
+      "Lemongrass",
+      "Obsidian",
+      "Indigo",
+      "Frost"
+    ]
+  },
+  {
+    "id": "p6",
+    "slug": "pixel-10-pro",
+    "name": "Pixel 10 Pro",
+    "brand": "Google",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the Pixel 10 Pro on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 101850,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "pixel-10-pro-256gb-obsidian",
+        "label": "Pixel 10 Pro 256GB Obsidian",
+        "price": 101850,
+        "storage": "256GB",
+        "color": "Obsidian"
+      },
+      {
+        "id": "pixel-10-pro-256gb-jade",
+        "label": "Pixel 10 Pro 256GB Jade",
+        "price": 102100,
+        "storage": "256GB",
+        "color": "Jade"
+      },
+      {
+        "id": "pixel-10-pro-256gb-porcelain",
+        "label": "Pixel 10 Pro 256GB Porcelain",
+        "price": 104700,
+        "storage": "256GB",
+        "color": "Porcelain"
+      },
+      {
+        "id": "pixel-10-pro-256gb-moonstone",
+        "label": "Pixel 10 Pro 256GB Moonstone",
+        "price": 109999,
+        "storage": "256GB",
+        "color": "Moonstone"
+      }
+    ],
+    "storageOptions": [
+      "256GB"
+    ],
+    "colorOptions": [
+      "Obsidian",
+      "Jade",
+      "Porcelain",
+      "Moonstone"
+    ]
+  },
+  {
+    "id": "p7",
+    "slug": "pixel-10-pro-xl",
+    "name": "Pixel 10 Pro XL",
+    "brand": "Google",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the Pixel 10 Pro XL on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 118999,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "pixel-10-pro-xl-256gb-jade",
+        "label": "Pixel 10 Pro XL 256GB Jade",
+        "price": 118999,
+        "storage": "256GB",
+        "color": "Jade"
+      },
+      {
+        "id": "pixel-10-pro-xl-256gb-moonstone",
+        "label": "Pixel 10 Pro XL 256GB Moonstone",
+        "price": 121000,
+        "storage": "256GB",
+        "color": "Moonstone"
+      },
+      {
+        "id": "pixel-10-pro-xl-256gb-obsidian",
+        "label": "Pixel 10 Pro XL 256GB Obsidian",
+        "price": 122999,
+        "storage": "256GB",
+        "color": "Obsidian"
+      }
+    ],
+    "storageOptions": [
+      "256GB"
+    ],
+    "colorOptions": [
+      "Jade",
+      "Moonstone",
+      "Obsidian"
+    ]
+  },
+  {
+    "id": "p8",
+    "slug": "pixel-10-pro-fold",
+    "name": "Pixel 10 Pro Fold",
+    "brand": "Google",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the Pixel 10 Pro Fold on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 172999,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "pixel-10-pro-fold-256gb-moonstone",
+        "label": "Pixel 10 Pro Fold 256GB Moonstone",
+        "price": 172999,
+        "storage": "256GB",
+        "color": "Moonstone"
+      }
+    ],
+    "storageOptions": [
+      "256GB"
+    ],
+    "colorOptions": [
+      "Moonstone"
+    ]
+  },
+  {
+    "id": "p9",
+    "slug": "galaxy-s25",
+    "name": "Galaxy S25",
+    "brand": "Samsung",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the Galaxy S25 on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 74999,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "galaxy-s25-256gb-silver-shadow",
+        "label": "Galaxy S25 + 256GB Silver Shadow",
+        "price": 74999,
+        "storage": "256GB",
+        "color": "Silver Shadow"
+      },
+      {
+        "id": "galaxy-s25-256gb-blueblack",
+        "label": "Galaxy S25 + 256GB Blueblack",
+        "price": 74999,
+        "storage": "256GB",
+        "color": "Blueblack"
+      },
+      {
+        "id": "galaxy-s25-256gb-pinkgold",
+        "label": "Galaxy S25 256GB Pinkgold",
+        "price": 80999,
+        "storage": "256GB",
+        "color": "Pinkgold"
+      },
+      {
+        "id": "galaxy-s25-256gb-icyblue",
+        "label": "Galaxy S25 256GB Icyblue",
+        "price": 80999,
+        "storage": "256GB",
+        "color": "Icyblue"
+      },
+      {
+        "id": "galaxy-s25-256gb-coralred",
+        "label": "Galaxy S25 256GB Coralred",
+        "price": 80999,
+        "storage": "256GB",
+        "color": "Coralred"
+      },
+      {
+        "id": "galaxy-s25-256gb-silver-shadow",
+        "label": "Galaxy S25 256GB Silver Shadow",
+        "price": 80999,
+        "storage": "256GB",
+        "color": "Silver Shadow"
+      },
+      {
+        "id": "galaxy-s25-256gb-navy",
+        "label": "Galaxy S25 256GB Navy",
+        "price": 80999,
+        "storage": "256GB",
+        "color": "Navy"
+      },
+      {
+        "id": "galaxy-s25-256gb-blueblack",
+        "label": "Galaxy S25 256GB BlueBlack",
+        "price": 80999,
+        "storage": "256GB",
+        "color": "BlueBlack"
+      },
+      {
+        "id": "galaxy-s25-256gb-mint",
+        "label": "Galaxy S25 256GB Mint",
+        "price": 80999,
+        "storage": "256GB",
+        "color": "Mint"
+      },
+      {
+        "id": "galaxy-s25-512gb-silver-shadow",
+        "label": "Galaxy S25 + 512GB Silver Shadow",
+        "price": 86999,
+        "storage": "512GB",
+        "color": "Silver Shadow"
+      },
+      {
+        "id": "galaxy-s25-512gb-blueblack",
+        "label": "Galaxy S25 + 512GB Blueblack",
+        "price": 86999,
+        "storage": "512GB",
+        "color": "Blueblack"
+      },
+      {
+        "id": "galaxy-s25-512gb-mint",
+        "label": "Galaxy S25 512GB Mint",
+        "price": 92999,
+        "storage": "512GB",
+        "color": "Mint"
+      },
+      {
+        "id": "galaxy-s25-512gb-pinkgold",
+        "label": "Galaxy S25 512GB Pinkgold",
+        "price": 92999,
+        "storage": "512GB",
+        "color": "Pinkgold"
+      },
+      {
+        "id": "galaxy-s25-512gb-coralred",
+        "label": "Galaxy S25 512GB Coralred",
+        "price": 92999,
+        "storage": "512GB",
+        "color": "Coralred"
+      },
+      {
+        "id": "galaxy-s25-512gb-icyblue",
+        "label": "Galaxy S25 512GB Icyblue",
+        "price": 92999,
+        "storage": "512GB",
+        "color": "Icyblue"
+      },
+      {
+        "id": "galaxy-s25-512gb-navy",
+        "label": "Galaxy S25 512GB Navy",
+        "price": 92999,
+        "storage": "512GB",
+        "color": "Navy"
+      },
+      {
+        "id": "galaxy-s25-512gb-silver-shadow",
+        "label": "Galaxy S25 512GB Silver Shadow",
+        "price": 92999,
+        "storage": "512GB",
+        "color": "Silver Shadow"
+      },
+      {
+        "id": "galaxy-s25-512gb-blueblack",
+        "label": "Galaxy S25 512GB BlueBlack",
+        "price": 92999,
+        "storage": "512GB",
+        "color": "BlueBlack"
+      },
+      {
+        "id": "galaxy-s25-256gb-coralred",
+        "label": "Galaxy S25 + 256GB Coralred",
+        "price": 99999,
+        "storage": "256GB",
+        "color": "Coralred"
+      },
+      {
+        "id": "galaxy-s25-256gb-pinkgold",
+        "label": "Galaxy S25 + 256GB Pinkgold",
+        "price": 99999,
+        "storage": "256GB",
+        "color": "Pinkgold"
+      },
+      {
+        "id": "galaxy-s25-256gb-navy",
+        "label": "Galaxy S25 + 256GB Navy",
+        "price": 99999,
+        "storage": "256GB",
+        "color": "Navy"
+      },
+      {
+        "id": "galaxy-s25-512gb-coralred",
+        "label": "Galaxy S25 + 512GB Coralred",
+        "price": 111999,
+        "storage": "512GB",
+        "color": "Coralred"
+      },
+      {
+        "id": "galaxy-s25-512gb-pinkgold",
+        "label": "Galaxy S25 + 512GB Pinkgold",
+        "price": 111999,
+        "storage": "512GB",
+        "color": "Pinkgold"
+      },
+      {
+        "id": "galaxy-s25-512gb-navy",
+        "label": "Galaxy S25 + 512GB Navy",
+        "price": 111999,
+        "storage": "512GB",
+        "color": "Navy"
+      }
+    ],
+    "storageOptions": [
+      "256GB",
+      "512GB"
+    ],
+    "colorOptions": [
+      "Silver Shadow",
+      "Blueblack",
+      "Pinkgold",
+      "Icyblue",
+      "Coralred",
+      "Navy",
+      "BlueBlack",
+      "Mint"
+    ]
+  },
+  {
+    "id": "p10",
+    "slug": "galaxy-s25-edge",
+    "name": "Galaxy S25 Edge",
+    "brand": "Samsung",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the Galaxy S25 Edge on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 89999,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "galaxy-s25-edge-256gb-titanium-jetblack",
+        "label": "Galaxy S25 Edge 256GB Titanium Jetblack",
+        "price": 89999,
+        "storage": "256GB",
+        "color": "Titanium Jetblack"
+      },
+      {
+        "id": "galaxy-s25-edge-256gb-titanium-silver",
+        "label": "Galaxy S25 Edge 256GB Titanium Silver",
+        "price": 89999,
+        "storage": "256GB",
+        "color": "Titanium Silver"
+      },
+      {
+        "id": "galaxy-s25-edge-512gb-titanium-silver",
+        "label": "Galaxy S25 Edge 512GB Titanium Silver",
+        "price": 101999,
+        "storage": "512GB",
+        "color": "Titanium Silver"
+      },
+      {
+        "id": "galaxy-s25-edge-512gb-titanium-jetblack",
+        "label": "Galaxy S25 Edge 512GB Titanium Jetblack",
+        "price": 101999,
+        "storage": "512GB",
+        "color": "Titanium Jetblack"
+      }
+    ],
+    "storageOptions": [
+      "256GB",
+      "512GB"
+    ],
+    "colorOptions": [
+      "Titanium Jetblack",
+      "Titanium Silver"
+    ]
+  },
+  {
+    "id": "p11",
+    "slug": "galaxy-s25-ultra",
+    "name": "Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the Galaxy S25 Ultra on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 129999,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "galaxy-s25-ultra-256gb-titanium-pinkgold",
+        "label": "Galaxy S25 Ultra 256GB Titanium Pinkgold",
+        "price": 129999,
+        "storage": "256GB",
+        "color": "Titanium Pinkgold"
+      },
+      {
+        "id": "galaxy-s25-ultra-256gb-titanium-silverblue",
+        "label": "Galaxy S25 Ultra 256GB Titanium Silverblue",
+        "price": 129999,
+        "storage": "256GB",
+        "color": "Titanium Silverblue"
+      },
+      {
+        "id": "galaxy-s25-ultra-256gb-titanium-whitesilver",
+        "label": "Galaxy S25 Ultra 256GB Titanium Whitesilver",
+        "price": 129999,
+        "storage": "256GB",
+        "color": "Titanium Whitesilver"
+      },
+      {
+        "id": "galaxy-s25-ultra-256gb-titanium-gray",
+        "label": "Galaxy S25 Ultra 256GB Titanium Gray",
+        "price": 129999,
+        "storage": "256GB",
+        "color": "Titanium Gray"
+      },
+      {
+        "id": "galaxy-s25-ultra-256gb-titanium-jadegreen",
+        "label": "Galaxy S25 Ultra 256GB Titanium Jadegreen",
+        "price": 129999,
+        "storage": "256GB",
+        "color": "Titanium Jadegreen"
+      },
+      {
+        "id": "galaxy-s25-ultra-256gb-titanium-black",
+        "label": "Galaxy S25 Ultra 256GB Titanium Black",
+        "price": 129999,
+        "storage": "256GB",
+        "color": "Titanium Black"
+      },
+      {
+        "id": "galaxy-s25-ultra-256gb-titanium-jetblack",
+        "label": "Galaxy S25 Ultra 256GB Titanium Jetblack",
+        "price": 129999,
+        "storage": "256GB",
+        "color": "Titanium Jetblack"
+      },
+      {
+        "id": "galaxy-s25-ultra-512gb-titanium-black",
+        "label": "Galaxy S25 Ultra 512GB Titanium Black",
+        "price": 141999,
+        "storage": "512GB",
+        "color": "Titanium Black"
+      },
+      {
+        "id": "galaxy-s25-ultra-512gb-titanium-whitesilver",
+        "label": "Galaxy S25 Ultra 512GB Titanium Whitesilver",
+        "price": 141999,
+        "storage": "512GB",
+        "color": "Titanium Whitesilver"
+      },
+      {
+        "id": "galaxy-s25-ultra-512gb-titanium-silverblue",
+        "label": "Galaxy S25 Ultra 512GB Titanium Silverblue",
+        "price": 141999,
+        "storage": "512GB",
+        "color": "Titanium Silverblue"
+      },
+      {
+        "id": "galaxy-s25-ultra-512gb-titanium-jadegreen",
+        "label": "Galaxy S25 Ultra 512GB Titanium Jadegreen",
+        "price": 141999,
+        "storage": "512GB",
+        "color": "Titanium Jadegreen"
+      },
+      {
+        "id": "galaxy-s25-ultra-512gb-titanium-gray",
+        "label": "Galaxy S25 Ultra 512GB Titanium Gray",
+        "price": 141999,
+        "storage": "512GB",
+        "color": "Titanium Gray"
+      },
+      {
+        "id": "galaxy-s25-ultra-512gb-titanium-jetblack",
+        "label": "Galaxy S25 Ultra 512GB Titanium Jetblack",
+        "price": 141999,
+        "storage": "512GB",
+        "color": "Titanium Jetblack"
+      },
+      {
+        "id": "galaxy-s25-ultra-512gb-titanium-pinkgold",
+        "label": "Galaxy S25 Ultra 512GB Titanium Pinkgold",
+        "price": 141999,
+        "storage": "512GB",
+        "color": "Titanium Pinkgold"
+      },
+      {
+        "id": "galaxy-s25-ultra-1tb-titanium-black",
+        "label": "Galaxy S25 Ultra 1TB Titanium Black",
+        "price": 165999,
+        "storage": "1TB",
+        "color": "Titanium Black"
+      },
+      {
+        "id": "galaxy-s25-ultra-1tb-titanium-silverblue",
+        "label": "Galaxy S25 Ultra 1TB Titanium Silverblue",
+        "price": 165999,
+        "storage": "1TB",
+        "color": "Titanium Silverblue"
+      },
+      {
+        "id": "galaxy-s25-ultra-1tb-titanium-gray",
+        "label": "Galaxy S25 Ultra 1TB Titanium Gray",
+        "price": 165999,
+        "storage": "1TB",
+        "color": "Titanium Gray"
+      },
+      {
+        "id": "galaxy-s25-ultra-1tb-titanium-jetblack",
+        "label": "Galaxy S25 Ultra 1TB Titanium Jetblack",
+        "price": 165999,
+        "storage": "1TB",
+        "color": "Titanium Jetblack"
+      },
+      {
+        "id": "galaxy-s25-ultra-1tb-titanium-pinkgold",
+        "label": "Galaxy S25 Ultra 1TB Titanium Pinkgold",
+        "price": 165999,
+        "storage": "1TB",
+        "color": "Titanium Pinkgold"
+      },
+      {
+        "id": "galaxy-s25-ultra-1tb-titanium-jadegreen",
+        "label": "Galaxy S25 Ultra 1TB Titanium Jadegreen",
+        "price": 165999,
+        "storage": "1TB",
+        "color": "Titanium Jadegreen"
+      },
+      {
+        "id": "galaxy-s25-ultra-1tb-titanium-whitesilver",
+        "label": "Galaxy S25 Ultra 1TB Titanium Whitesilver",
+        "price": 165999,
+        "storage": "1TB",
+        "color": "Titanium Whitesilver"
+      }
+    ],
+    "storageOptions": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "colorOptions": [
+      "Titanium Pinkgold",
+      "Titanium Silverblue",
+      "Titanium Whitesilver",
+      "Titanium Gray",
+      "Titanium Jadegreen",
+      "Titanium Black",
+      "Titanium Jetblack"
+    ]
+  },
+  {
+    "id": "p12",
+    "slug": "one-plus-15",
+    "name": "One Plus 15",
+    "brand": "OnePlus",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the One Plus 15 on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 72999,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "one-plus-15-12gb-ram-256gb-rom",
+        "label": "One Plus 15 12GB RAM + 256GB ROM",
+        "price": 72999,
+        "storage": "12GB RAM + 256GB ROM",
+        "color": null
+      },
+      {
+        "id": "one-plus-15-16gb-ram-512gb-rom",
+        "label": "One Plus 15 16GB RAM + 512GB ROM",
+        "price": 79999,
+        "storage": "16GB RAM + 512GB ROM",
+        "color": null
+      }
+    ],
+    "storageOptions": [
+      "12GB RAM + 256GB ROM",
+      "16GB RAM + 512GB ROM"
+    ],
+    "colorOptions": [
+      "Default"
+    ]
+  },
+  {
+    "id": "p13",
+    "slug": "one-plus-13s",
+    "name": "One Plus 13S",
+    "brand": "OnePlus",
+    "category": "Phones",
+    "tagline": "0% interest \u2022 Instant approval",
+    "description": "Get the One Plus 13S on 1Fi Marketplace with mutual-fund-backed no-cost EMIs. Your investments keep compounding while you repay in easy monthly installments.",
+    "images": [
+      "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "startingPrice": 52999,
+    "inStock": true,
+    "emiAvailable": true,
+    "highlights": [
+      "No-cost EMI options",
+      "No credit score required",
+      "Zero downpayment",
+      "Foreclose anytime at no charge"
+    ],
+    "variants": [
+      {
+        "id": "one-plus-13s-12gb-ram-256gb-rom",
+        "label": "One Plus 13S 12GB RAM + 256GB ROM",
+        "price": 52999,
+        "storage": "12GB RAM + 256GB ROM",
+        "color": null
+      },
+      {
+        "id": "one-plus-13s-12gb-ram-512gb-rom",
+        "label": "One Plus 13S 12GB RAM + 512GB ROM",
+        "price": 57999,
+        "storage": "12GB RAM + 512GB ROM",
+        "color": null
+      }
+    ],
+    "storageOptions": [
+      "12GB RAM + 256GB ROM",
+      "12GB RAM + 512GB ROM"
+    ],
+    "colorOptions": [
+      "Default"
+    ]
+  }
+]
